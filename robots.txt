@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pheikuosho.readonlynetwork.org/sitemap.xml
